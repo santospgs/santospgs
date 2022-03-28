@@ -1,7 +1,3 @@
-@settings {
-  font-size: 10;
-}
-
 ### Olá, seja bem vindo! 👋
 
 <!--
