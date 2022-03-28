@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 <div>
     - Este perfil foi criado para divulgar o resultado e o progresso dos meus estudos e projetos.<br>
     - Sou formado em Gestão de Tecnologia da Informação e Engenharia Civil.<br>
-    - Atualmente estou estudando HTML, CSS, Javascript e Python.
+    - Atualmente estou estudando HTML, CSS, Javascript e Python, além de saber um pouco de SQL <a href="https://codepen.io/santospgs">Codepen</a><br>
+    - Também trabalho com modelagem 3D e renderização e tenho conhecimento em Excel, VBA. 
   <br>
   <br>
     - Também sou baterista, karateca, jogador de RPGs e desenhista nas horas vagas.
@@ -51,7 +52,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/pg.santos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulogsantos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href="https://twitter.com/santos_pgs" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  <a href="https://discordapp.com/users/734937558558965812" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+  <a href="https://discord.com/users/734937558558965812" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
  
   
   
